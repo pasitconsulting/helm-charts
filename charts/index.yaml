@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  consul:
+  - apiVersion: v1
+    appVersion: 1.5.3
+    created: "2020-09-15T15:01:51.955268903+01:00"
+    deprecated: true
+    description: Highly available and distributed service discovery and key-value
+      store designed with support for the modern data center to make distributed systems
+      and configuration easy.
+    digest: 9c9cd84dc10ecdd54f76ba7cc6144f0a2c06f371232b921d28d0ea38a4b9c4d0
+    home: https://github.com/hashicorp/consul
+    icon: https://raw.githubusercontent.com/hashicorp/consul/bce3809dfca37b883828c3715b84143dd71c0f85/website/source/assets/images/favicons/android-chrome-512x512.png
+    name: consul
+    sources:
+    - https://github.com/kelseyhightower/consul-on-kubernetes
+    urls:
+    - consul-3.9.6.tgz
+    version: 3.9.6
+generated: "2020-09-15T15:01:51.954594893+01:00"
